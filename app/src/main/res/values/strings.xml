@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quran Indonesia</string>
+    <string name="title_activity_main">Quran Indonesia</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">By : simplecode01</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_quran">Quran</string>
+    <string name="menu_rating">Beri Rating</string>
+    <string name="menu_contact">Kontak Kami</string>
+    <string name="menu_about_us">Tentang Kami</string>
+    <string name="tab_surah">Surat</string>
+    <string name="tab_juz">Juz</string>
+    <string name="tab_bookmark">Penanda</string>
+
+    <string name="tab_instagram">\@ptravi</string>
+
+</resources>

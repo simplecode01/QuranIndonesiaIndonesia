@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    PEMBUATAN VARIABEL -->
+    <attr name="colorPrimary50" format="color"/>
+    <attr name="colorGrayOrBlack" format="color"/>
+</resources>
